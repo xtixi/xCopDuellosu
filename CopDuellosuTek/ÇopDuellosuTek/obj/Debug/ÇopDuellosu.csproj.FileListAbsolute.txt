@@ -1,0 +1,9 @@
+C:\Users\TiXi\source\repos\ÇopDuellosu\obj\Debug\ÇopDuellosu.csprojAssemblyReference.cache
+C:\Users\TiXi\source\repos\ÇopDuellosu\obj\Debug\ÇopDuellosu.Properties.Resources.resources
+C:\Users\TiXi\source\repos\ÇopDuellosu\obj\Debug\ÇopDuellosu.csproj.GenerateResource.cache
+C:\Users\TiXi\source\repos\ÇopDuellosu\obj\Debug\ÇopDuellosu.Form1.resources
+C:\Users\TiXi\source\repos\ÇopDuellosu\bin\Debug\ÇopDuellosu.exe.config
+C:\Users\TiXi\source\repos\ÇopDuellosu\bin\Debug\ÇopDuellosu.exe
+C:\Users\TiXi\source\repos\ÇopDuellosu\bin\Debug\ÇopDuellosu.pdb
+C:\Users\TiXi\source\repos\ÇopDuellosu\obj\Debug\ÇopDuellosu.exe
+C:\Users\TiXi\source\repos\ÇopDuellosu\obj\Debug\ÇopDuellosu.pdb
